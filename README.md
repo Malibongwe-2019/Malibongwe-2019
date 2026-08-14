@@ -1,11 +1,11 @@
 LITTLE EDEN Society Website
  Student Information
 
-Student Name:** [Malibongwe Mthenjana]  
-Student Number:** [ST10495752]  
-Subject:** [Web Development]  
-Subject Code:** [WEDE5020]  
-Year:** 2026  
+Student Name: [Malibongwe Mthenjana]  
+Student Number: [ST10495752]  
+Subject: [Web Development]  
+Subject Code: [WEDE5020]  
+Year:2026  
 
 
  1. Project Overview
