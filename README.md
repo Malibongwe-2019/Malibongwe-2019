@@ -1,6 +1,5 @@
-# LITTLE EDEN Society Website
-
-## Student Information
+LITTLE EDEN Society Website
+ Student Information
 
 **Student Name:** [Malibongwe Mthenjana]  
 **Student Number:** [ST10495752]  
@@ -9,10 +8,9 @@
 **Year:** 2026  
 
 
+ 1. Project Overview
 
-# 1. Project Overview
-
-The LITTLE EDEN Society website project is a small-to-medium website developed to provide information about LITTLE EDEN Society, a South African non-profit organisation that provides lifelong care and support to children and adults with profound intellectual disabilities.
+The LITTLE EDEN Society website project is a small-to-medium website developed to provide information about LITTLE EDEN Society, a South African non-profit organization that provides lifelong care and support to children and adults with profound intellectual disabilities.
 
 The purpose of this website is to create a clear, accessible and user-friendly online platform where visitors can learn about LITTLE EDEN Society, its history, services, facilities and ways in which members of the public can become involved.
 
@@ -21,14 +19,13 @@ LITTLE EDEN Society has been providing care since 1967. The organisation current
 The website is being developed as part of the Web Development project and will initially use HTML, CSS and JavaScript.
 
 
+ 2. Organisation Overview
 
-# 2. Organisation Overview
-
-## Organisation Name
+ Organisation Name
 
 **LITTLE EDEN Society**
 
-## Background
+ Background
 
 LITTLE EDEN Society began in 1967 through the work of its founder, Domitilla Rota Hyams, supported by her husband, Danny Hyams. The organisation developed from a small day-care initiative into a residential care organisation supporting people with profound intellectual disabilities.
 
@@ -40,20 +37,17 @@ The organisation operates two residential homes:
 - Elvira Rota Village – Bapsfontein
 
 LITTLE EDEN provides care, nursing, therapy, stimulation, activities and other services designed around the individual needs of residents.
-
-## Mission
+ Mission
 
 LITTLE EDEN's mission is to care for, develop and enhance the quality of life of people with intellectual disabilities through love, understanding, professional care and support.
+ Core Values
 
-## Core Values
-
-The organisation's core values include:
+The organization's core values include:
 
 - Respect
 - Sanctity of Life
 - Love and Care
-
-## Target Audience
+ Target Audience
 
 The website is aimed at:
 
@@ -62,13 +56,13 @@ The website is aimed at:
 - Volunteers
 - Sponsors
 - Community members
-- Organisations interested in partnerships
+- Organization's interested in partnerships
 - Members of the public interested in learning about LITTLE EDEN
 - People interested in supporting people with intellectual disabilities
 
 
 
-# 3. Website Goals and Objectives
+3. Website Goals and Objectives
 
 The main goal of the website is to create an informative and easy-to-use online platform for LITTLE EDEN Society.
 
@@ -86,7 +80,7 @@ The website objectives are to:
 
 
 
-# 4. Website Key Performance Indicators (KPIs)
+4. Website Key Performance Indicators (KPIs)
 
 The success of the website can be measured using the following indicators:
 
@@ -102,12 +96,10 @@ The success of the website can be measured using the following indicators:
 - Website usability and accessibility.
 
 
-
-# 5. Website Features and Functionality
+ 5. Website Features and Functionality
 
 The website will contain a minimum of five pages.
-
-## 5.1 Home Page
+ 5.1 Home Page
 
 **File:** `index.html`
 
@@ -118,7 +110,7 @@ It will contain:
 - Website navigation
 - Hero image
 - Introduction
-- Organisation overview
+- Organization overview
 - Core values
 - Ways to support LITTLE EDEN
 - Call-to-action buttons
@@ -126,24 +118,24 @@ It will contain:
 
 
 
-## 5.2 About Us Page
+5.2 About Us Page
 
 **File:** `about.html`
 
-The About Us page will provide information about the organisation.
+The About Us page will provide information about the organization.
 
 It will contain:
 
-- Organisation history
+- Organization history
 - Mission
 - Vision
 - Core values
-- Organisation/community image
+- Organization/community image
 - Introduction to LITTLE EDEN
 
 
 
-## 5.3 Services Page
+ 5.3 Services Page
 
 **File:** `services.html`
 
@@ -160,7 +152,7 @@ It will contain information about:
 
 
 
-## 5.4 Enquiry Page
+ 5.4 Enquiry Page
 
 **File:** `enquiry.html`
 
@@ -184,7 +176,7 @@ Possible enquiry types include:
 
 
 
-## 5.5 Contact Page
+5.5 Contact Page
 
 **File:** `contact.html`
 
@@ -202,7 +194,7 @@ It will include:
 
 
 
-# 6. Sitemap
+ 6. Sitemap
 
 The planned website structure is:
 
