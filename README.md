@@ -23,7 +23,7 @@ The website is being developed as part of the Web Development project and will i
 
  Organisation Name
 
-**LITTLE EDEN Society**
+LITTLE EDEN Society
 
  Background
 
@@ -101,7 +101,7 @@ The success of the website can be measured using the following indicators:
 The website will contain a minimum of five pages.
  5.1 Home Page
 
-**File:** `index.html`
+File:index.html
 
 The home page will introduce visitors to LITTLE EDEN Society.
 
@@ -120,7 +120,7 @@ It will contain:
 
 5.2 About Us Page
 
-**File:** `about.html`
+File:about.html
 
 The About Us page will provide information about the organization.
 
@@ -137,7 +137,7 @@ It will contain:
 
  5.3 Services Page
 
-**File:** `services.html`
+File:services.html
 
 The Services page will explain the main care and support services provided by LITTLE EDEN.
 
@@ -154,7 +154,7 @@ It will contain information about:
 
  5.4 Enquiry Page
 
-**File:** `enquiry.html`
+File:enquiry.html
 
 The Enquiry page will allow visitors to contact the organisation regarding different forms of involvement.
 
@@ -178,7 +178,7 @@ Possible enquiry types include:
 
 5.5 Contact Page
 
-**File:** `contact.html`
+File:contact.html
 
 The Contact page will provide visitors with information about contacting LITTLE EDEN Society.
 
@@ -198,7 +198,7 @@ It will include:
 
 The planned website structure is:
 
-```text
+text
                     LITTLE EDEN WEBSITE
                            |
           ---------------------------------------
@@ -206,6 +206,9 @@ The planned website structure is:
         HOME       ABOUT     SERVICES  ENQUIRY  CONTACT
         index      about     services  enquiry  contact
         .html      .html      .html     .html    .html
+
+
+
 
 Changelog
 Part 2 – CSS Styling and Responsive Design
