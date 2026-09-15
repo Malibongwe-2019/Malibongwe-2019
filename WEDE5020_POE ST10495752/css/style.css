@@ -1,0 +1,330 @@
+/* =========================================================
+   LITTLE EDEN SOCIETY - CSS
+   This stylesheet is matched to the HTML structure supplied
+   in the WEDE5020 project.
+   ========================================================= */
+
+/* ---------- General page styling ---------- */
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f7faf8;
+    color: #26352d;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: #1f5f45;
+}
+
+h1 {
+    margin: 0;
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 28px;
+    margin-top: 0;
+}
+
+h3 {
+    font-size: 21px;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: #1f6b4d;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* ---------- Header ---------- */
+header {
+    background-color: #1f5f45;
+    color: white;
+    text-align: center;
+    padding: 25px 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+header h1 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+/* ---------- Navigation ---------- */
+header nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+header nav button {
+    background-color: white;
+    color: #1f5f45;
+    border: 2px solid white;
+    border-radius: 6px;
+    padding: 10px 18px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+
+header nav button:hover {
+    background-color: #dcefe5;
+    color: #164a36;
+    transform: translateY(-1px);
+}
+
+header nav button:focus {
+    outline: 3px solid #a9d6bd;
+    outline-offset: 2px;
+}
+
+/* ---------- Main content ---------- */
+main {
+    width: 90%;
+    max-width: 1100px;
+    margin: 35px auto;
+}
+
+main > section {
+    background-color: white;
+    padding: 30px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    border: 1px solid #d8e5dd;
+    box-shadow: 0 3px 12px rgba(31, 95, 69, 0.08);
+}
+
+/* ---------- Home page ---------- */
+main > section:first-child {
+    text-align: center;
+}
+
+.website-image,
+.content-image,
+.service-image,
+.contact-image {
+    display: block;
+    width: 350px;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 10px;
+    border: 4px solid #dcefe5;
+}
+
+main section:first-child h2 {
+    margin-top: 25px;
+}
+
+/* ---------- Sitemap ---------- */
+main ul {
+    max-width: 500px;
+    margin: 15px auto 25px;
+    padding: 20px 35px;
+    text-align: left;
+    background-color: #f0f7f3;
+    border-left: 5px solid #1f5f45;
+    border-radius: 6px;
+}
+
+main li {
+    margin: 8px 0;
+}
+
+main ul a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main ul a:hover {
+    text-decoration: underline;
+}
+
+/* ---------- Call-to-action link ---------- */
+main section:first-child > a {
+    display: inline-block;
+    background-color: #1f5f45;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 12px 24px;
+    margin-top: 10px;
+    border-radius: 6px;
+}
+
+main section:first-child > a:hover {
+    background-color: #164a36;
+}
+
+/* ---------- Home page articles / help cards ---------- */
+article {
+    background-color: #f0f7f3;
+    border: 1px solid #d8e5dd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 15px 0;
+}
+
+article h3 {
+    margin-top: 0;
+}
+
+/* ---------- About and Services sections ---------- */
+main > section h2 {
+    border-bottom: 2px solid #dcefe5;
+    padding-bottom: 8px;
+}
+
+main > section h3 {
+    margin-bottom: 5px;
+}
+
+/* ---------- Contact page ---------- */
+iframe {
+    display: block;
+    width: 100%;
+    max-width: 600px;
+    height: 350px;
+    margin: 20px auto;
+    border: 0;
+    border-radius: 8px;
+}
+
+main a[href^="mailto:"] {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+/* ---------- Forms ---------- */
+form {
+    max-width: 750px;
+    margin: 0 auto;
+    background-color: #f0f7f3;
+    padding: 25px;
+    border-radius: 8px;
+    border: 1px solid #d8e5dd;
+}
+
+form label {
+    display: block;
+    font-weight: bold;
+    color: #1f5f45;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+form input,
+form select,
+form textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #b9cfc2;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: white;
+}
+
+form input:focus,
+form select:focus,
+form textarea:focus {
+    outline: 2px solid #75b992;
+    border-color: #1f5f45;
+}
+
+form textarea {
+    resize: vertical;
+}
+
+form button {
+    display: block;
+    background-color: #1f5f45;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 12px 25px;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #164a36;
+}
+
+/* ---------- Footer ---------- */
+footer {
+    background-color: #183f30;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+footer p {
+    margin: 0;
+    color: white;
+}
+
+/* ---------- Responsive design ---------- */
+@media (max-width: 700px) {
+    header {
+        padding: 20px 12px;
+    }
+
+    header h1 {
+        font-size: 26px;
+    }
+
+    header nav {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    header nav button {
+        width: 100%;
+        max-width: 280px;
+    }
+
+    main {
+        width: 94%;
+        margin: 20px auto;
+    }
+
+    main > section {
+        padding: 20px;
+    }
+
+    .website-image,
+    .content-image,
+    .service-image,
+    .contact-image {
+        width: 100%;
+        max-width: 350px;
+    }
+
+    iframe {
+        height: 300px;
+    }
+}
