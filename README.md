@@ -192,24 +192,6 @@ It will include:
 - Map/location area
 - Contact/enquiry call-to-action
 
-
-
- 6. Sitemap
-
-The planned website structure is:
-
-text
-                    LITTLE EDEN WEBSITE
-                           |
-          ---------------------------------------
-          |          |          |        |       |
-        HOME       ABOUT     SERVICES  ENQUIRY  CONTACT
-        index      about     services  enquiry  contact
-        .html      .html      .html     .html    .html
-
-
-
-
 Changelog
 Part 2 – CSS Styling and Responsive Design
 
