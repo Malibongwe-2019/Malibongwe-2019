@@ -118,7 +118,6 @@ It will contain:
 
 
 
-5.2 About Us Page
 
 File:about.html
 
