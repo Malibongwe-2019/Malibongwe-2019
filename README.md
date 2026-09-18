@@ -192,7 +192,8 @@ It will include:
 - Map/location area
 - Contact/enquiry call-to-action
 
-
+Changelog
+Part 2 – CSS Styling and Responsive Design
 
 - Updated the website based on feedback received from Part 1.
 - Corrected spelling, grammar and formatting issues across the HTML pages.
