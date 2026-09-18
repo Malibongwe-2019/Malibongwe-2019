@@ -195,3 +195,15 @@ It will include:
 Changelog
 Part 2 – CSS Styling and Responsive Design
 
+- Updated the website based on feedback received from Part 1.
+- Corrected spelling, grammar and formatting issues across the HTML pages.
+- Improved the navigation structure and consistency across all five pages.
+- Created and linked an external CSS stylesheet named `style.css`.
+- Added a CSS reset and base styles for consistent rendering.
+- Added typography styling including font family, font sizes, font weights and line spacing.
+- Added Flexbox and CSS Grid layouts to improve the desktop presentation.
+- Added colours, borders, shadows, spacing and hover effects to improve the visual appearance.
+- Added responsive media queries for tablet and mobile screen sizes.
+- Updated images to use responsive sizing.
+- Tested the website using browser developer tools at desktop, tablet and mobile screen sizes.
+- Checked navigation links and page layouts after applying the CSS.
