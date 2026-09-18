@@ -8,7 +8,7 @@ Subject Code: [WEDE5020]
 Year:2026  
 
 
-
+1. Project Overview
 
 The LITTLE EDEN Society website project is a small-to-medium website developed to provide information about LITTLE EDEN Society, a South African non-profit organization that provides lifelong care and support to children and adults with profound intellectual disabilities.
 
