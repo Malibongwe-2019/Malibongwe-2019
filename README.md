@@ -1,4 +1,5 @@
-
+LITTLE EDEN Society Website
+ Student Information
 
 Student Name: [Malibongwe Mthenjana]  
 Student Number: [ST10495752]  
