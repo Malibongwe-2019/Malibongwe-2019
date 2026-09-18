@@ -221,5 +221,13 @@ Part 2 – CSS Styling and Responsive Design
 
 - Added different colors on the website.
 
+References.
+Mozilla Developer Network, MDN, 2026. Responsive web design. [online] Available at < <https://developer.mozilla.org/en- 
+> [Accessed 13 September 2026].
 
+LITTLE EDEN Society, about us, 2026. [online] Available at< https://littleeden.org.za/about-us/ > [Accessed 13 September 2026].
+
+LITTLE EDEN Society, Home, 2026. [online] Available at< https://littleeden.org.za/ > [Accessed 15 September 2026].
+
+W3C, Using CSS to change the presentation of a user interface component when it receives focus, 2025. [online] Available at    [Accessed 18 September 2026].
   
